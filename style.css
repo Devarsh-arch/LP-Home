@@ -1,0 +1,39 @@
+body{
+	border-right: 7px solid chartreuse;
+	border-left: 5px solid indianred;
+	border-bottom: 5px solid royalblue;
+	border-top: 5px solid goldenrod;
+	border-radius: 5px;
+}
+.heading{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	color: white;
+}
+
+.TTT{
+	background-color: transparent;
+	height: 100px;
+	width: auto;
+	box-shadow: 5px 5px 5px gray;
+}
+
+#la_pinoz_logo{
+	margin-right: 550px;
+}
+
+.TheAnchors{
+	margin-left: 10px;
+	color: whitesmoke;
+	font-size: 17px;
+}
+
+.para_1{
+	font-size: larger;
+}
+
+.TheFlags{
+	width: 150px;
+	height: 150px;
+	margin: 10px;
+	border-radius: 100px;
+}
